@@ -1,6 +1,9 @@
 
 # OpenDqrkis
 
+# Info
+25$ client 
+
 # Credits
 - lvstrng (writing argon)
 - ablue (porting argon to 1.21.11)
