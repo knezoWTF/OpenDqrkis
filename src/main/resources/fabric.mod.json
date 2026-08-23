@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "id": "immediatelyfast",
+  "id": "dqrkis",
   "version": "1.2.11+1.21.11",
-  "name": "ImmediatelyFast",
+  "name": "Dqrkis",
   "description": "Speed up and optimize immediate mode rendering in Minecraft",
   "authors": [
     "RK_01"
@@ -17,7 +17,7 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "dev.lvstrng.argon.Main"
+      "xyz.dqrkis.Main"
     ]
   },
   "mixins": [

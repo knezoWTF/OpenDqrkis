@@ -1,9 +1,10 @@
 {
   "required": true,
   "minVersion": "0.8",
-  "package": "dev.lvstrng.argon.mixin",
+  "package": "xyz.dqrkis.mixin",
   "compatibilityLevel": "JAVA_21",
   "mixins": [
+    "ChatHudMixin",
     "ClientConnectionMixin",
     "EndCrystalItemMixin",
     "ItemStackMixin",
@@ -15,17 +16,24 @@
     "ClientPlayerEntityMixin",
     "ClientPlayerInteractionManagerAccessor",
     "ClientPlayerInteractionManagerMixin",
+    "ConnectScreenMixin",
+    "DisconnectedScreenMixin",
+    "EntityMixin",
     "GameRendererMixin",
     "HandledScreenMixin",
     "InGameHudMixin",
     "KeyBindingAccessor",
     "KeyBindingMixin",
     "KeyboardMixin",
+    "LivingEntityRendererMixin",
     "MinecraftClientAccessor",
     "MinecraftClientMixin",
     "MouseMixin",
     "OtherClientPlayerEntityAccessor",
-    "ScreenMixin"
+    "PlayerInventoryAccessor",
+    "PlayerListEntryMixin",
+    "ScreenMixin",
+    "TextVisitFactoryMixin"
   ],
   "injectors": {
     "defaultRequire": 1
