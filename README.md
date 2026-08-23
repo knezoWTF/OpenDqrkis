@@ -1,7 +1,8 @@
 # OpenDqrkis
 
 # Info
-25$ client 
+25$ client, this is super low effort and i dont expect it to be used, took me like 3-4h TOTAL
+make sure to use ZKM Trial for complete 
 
 # Credits
 - lvstrng (writing argon)
