@@ -1,4 +1,3 @@
-
 # OpenDqrkis
 
 # Info
@@ -8,6 +7,9 @@
 - lvstrng (writing argon)
 - ablue (porting argon to 1.21.11)
 - graph (deobfuscating, reversing dqrkis)
+- dyrk (queen of evil & emotional support)
+- miami (unfortunately had to spend money)
+- Ox Alpha
 
 # Why
 Owner used to be on weedhack leaderboard, client is FULLY AI, somehow managed to paste from 2 clients i work at (Silk, Radium), lies about bypassing SS
